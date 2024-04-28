@@ -1,3 +1,2 @@
-# Coffee-Lnading-page using React
-- not responsive yet
-  
+# Coffee-Landing-page using React
+
