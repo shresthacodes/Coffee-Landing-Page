@@ -14,13 +14,13 @@
 }
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #956f4eb4;
+  background: #a79181;
+  position: relative;
 }
 
 nav {
   display: flex;
   justify-content: space-between;
-
   height: 72px;
   align-items: center;
 }
@@ -35,7 +35,7 @@ button {
   all: unset;
   padding: 6px 16px;
   background: var(--brown);
-  color: azure;
+  color: rgb(255, 255, 255);
   height: 22px;
   font-weight: 500;
 }
